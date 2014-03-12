@@ -12,9 +12,9 @@ Use this plugin to autofill the Site ID field by seraching for a site domain on 
 
 == Description ==
 
-This plugin assumes you have Wordpress MU Domain Plugin installed. 
+This plugin assumes you have the Wordpress MU Domain Plugin installed. 
 When working with numerous domains and sites, it is difficult to find the site ID without first searching for it on another page.
-Use this plugin to autofill the Site ID field by seraching for a site domain on your network.
+Use this plugin to autofill the Site ID field by searching for a site domain on your network.
 
 == Installation ==
 
